@@ -35,3 +35,6 @@ Condiciones:
 
 
 ### 3. Tome el plano de una ciudad pequeña y localice, por ejemplo, las droguerías, o colegios ¿es posible que falte alguno en la ciudad? Utilice diagramas de Voronoi.
+
+Para este ejercicio se tomara los colegios de Paipa, utilizando la herramienta de la pagina de [Frederik Brasz](https://cfbrasz.github.io/Voronoi.html) se crea el siguiente diagrama de boronoi.
+[Autómatas Celulares/Images/Paipa_Voronoi.png]
