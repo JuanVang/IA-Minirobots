@@ -40,4 +40,4 @@ Para este ejercicio se tomara los colegios de Paipa, utilizando la herramienta d
 
 ![Voronoi](https://raw.githubusercontent.com/JuanVang/IA-Minirobots/d28eed432cb9c767b368bdbb0e564f869f652ce4/Aut%C3%B3matas%20Celulares/Images/Paipa_Voronoi.png?token=GHSAT0AAAAAAC2LRZLILWUTGP22BF36YNVOZZTOSVA)
 
-Se puede ve que hay gran conentracion de colegios hacia el centro de la ciudad, sin embargo hacia las afueras hay una escases de esto, 
+Se puede ve que hay gran conentracion de colegios hacia el centro de la ciudad, sin embargo hacia las afueras hay una escases de estos. Sin embargo aun teniendo esto en cuenta, la distribucion de colegios es adecuada para la zona que cada uno de los colegios abarca.
