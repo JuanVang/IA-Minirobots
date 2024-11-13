@@ -38,6 +38,6 @@ Condiciones:
 
 Para este ejercicio se tomara los colegios de Paipa, utilizando la herramienta de la pagina de [Frederik Brasz](https://cfbrasz.github.io/Voronoi.html) se crea el siguiente diagrama de boronoi encima de una captura de pantalla tomada de google maps.
 
-![Voronoi](https://raw.githubusercontent.com/JuanVang/IA-Minirobots/d28eed432cb9c767b368bdbb0e564f869f652ce4/Aut%C3%B3matas%20Celulares/Images/Paipa_Voronoi.png?token=GHSAT0AAAAAAC2LRZLILWUTGP22BF36YNVOZZTOSVA)
+![Voronoi](https://raw.githubusercontent.com/JuanVang/IA-Minirobots/refs/heads/main/Autómatas%20Celulares/Images/Paipa_Voronoi.png?token=GHSAT0AAAAAAC2ODZTFXJHLIKV2EMYQ46HWZZVFG6Q)
 
 Se puede ve que hay gran conentracion de colegios hacia el centro de la ciudad, sin embargo hacia las afueras hay una escases de estos. Sin embargo aun teniendo esto en cuenta, la distribucion de colegios es adecuada para la zona que cada uno de los colegios abarca.
